@@ -2,3 +2,20 @@
 __pycache__/
 .venv
 .envrc
+# Entorno virtual
+.venv/
+venv/
+
+# Variables de entorno (NUNCA subir)
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SO
+.DS_Store
+Thumbs.db
